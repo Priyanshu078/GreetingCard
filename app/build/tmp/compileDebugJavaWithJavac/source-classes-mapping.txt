@@ -1,0 +1,2 @@
+com/example/greetingcardapp/BuildConfig.java
+ com.example.greetingcardapp.BuildConfig
